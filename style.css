@@ -1,0 +1,9 @@
+img {
+	box-shadow: 10px 10px 5px #888888;
+	border-radius: 50%;
+}
+
+img a:hover {
+	box-shadow: 10px 10px 5px #D5CF42;
+	border-radius: 50%;
+}

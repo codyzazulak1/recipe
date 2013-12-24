@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<link type="text/css" rel="stylesheet" href="style.css" />
+	<head>
+	<title>My First Recipe</title>
+	</head>
+	<body>
+		<h1><u>My First Recipe</u></h1>
+		<p><em><strong>Salmon</strong> Maki</em></p>
+		<p><a href="http://us.123rf.com/400wm/400/400/ryzhkov86/ryzhkov860911/ryzhkov86091100247/5925100-sake-maki-sushi--roll-with-fresh-salmon.jpg"><img src="http://us.123rf.com/400wm/400/400/ryzhkov86/ryzhkov860911/ryzhkov86091100247/5925100-sake-maki-sushi--roll-with-fresh-salmon.jpg"/></a></p>
+
+		<ul>
+		<h3><u>Recipe</u></h3>
+
+		<li>Rice</li>
+		<li>Salmon</li>
+		<li>Seaweed Wrap</li>
+		</ul>
+
+		<h3>Instructions</h3>
+		<ol>
+		<li>Lay out square section of <strong>Seaweed Wrap</strong></li>
+		<li>Cover evenly in <strong>Rice</strong></li>
+		<li>Lay strip of <strong>Salmon</strong> down one edge of <strong>Rice</strong> covered <strong>Wrap</strong></li>
+		<li>Roll <strong>Wrap</strong> until <em>complete</em>!</li>
+		</ol>
+
+
+	</body>
+</html>
